@@ -18,5 +18,7 @@ public class App {
         System.out.println(Cat.getCatCount());
         System.out.println(Dog.getDogCount());
         System.out.println(Animal.getAnimalCount());
+
+        // test
     }
 }
